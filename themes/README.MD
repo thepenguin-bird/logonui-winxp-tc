@@ -1,3 +1,5 @@
+# not deleted because this is probably important, will be removed if its not important.
+
 # Themes
 This directory contains the source files used to generate desktop themes (aka *visual styles*).
 
