@@ -1,5 +1,0 @@
-[CplApplet]
-Name=System
-Comment=See information about your computer system, and change settings for hardware, performance, and automatic updates.
-Exec=sysdm.cpl
-Icon=uk.co.oddmatics.wintc.cpl-sysdm
