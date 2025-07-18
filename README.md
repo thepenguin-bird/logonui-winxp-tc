@@ -1,5 +1,5 @@
-# xfce-winxp-tc
-This is my little chipping-away spot for a Windows XP Total Conversion for XFCE.
+# logonui-winxp-tc
+This is to fix the inaccurate logonui that comes with xfce-winxp-tc
 
 ![luna-blue-promo](https://github.com/user-attachments/assets/53ce3a26-9d51-47f5-9c6e-8104b654b019)
 ![luna-metallic-promo](https://github.com/user-attachments/assets/a113ca1b-4047-4519-95dc-3d1feb479426)
