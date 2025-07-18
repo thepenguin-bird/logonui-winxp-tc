@@ -316,7 +316,6 @@ static void wintc_welcome_ui_constructed(
     //
     welcome_ui->box_wait = gtk_box_new(GTK_ORIENTATION_VERTICAL, 0);
 
-    welcome_ui->animation_logo_wait = wintc_ctl_animation_new();
     welcome_ui->label_wait          = gtk_label_new("Please wait...");
 
     welcome_ui->ani_id_logo_wait =
